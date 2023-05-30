@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-bree-serif: "Bree Serif";
+  --font-calistoga: Calistoga;
+  --font-blinker: Blinker;
+  --font-quicksand: Quicksand;
+  --font-abeezee: ABeeZee;
+  --font-crimson-text: "Crimson Text";
+  --font-pacifico: Pacifico;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-71xl: 90px;
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-midnightblue: #0e1541;
+  --color-orangered: #e9411c;
+  --color-gray-100: #2c1e1c;
+  --color-mediumblue: #3d1fcc;
+  --color-white: #fff;
+  --color-teal: #3f7a7a;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-81xl: 100px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}
